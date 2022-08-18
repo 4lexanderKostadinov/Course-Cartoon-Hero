@@ -3,7 +3,7 @@ body{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
     'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 20px;
-    line-height: 36px;
+    line-height: 32px;
 }
 header{
     background-color: #d14635;
@@ -17,6 +17,7 @@ h1, h2{
 header h1{
     color: white;
     font-size: 50px;
+    line-height: 52px;
     margin: 0;
     margin-top: 20px;
     padding: 20px;
